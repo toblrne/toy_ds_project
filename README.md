@@ -1,2 +1,3 @@
 # toy_ds_project
-DSCI 100
+
+project creation date: October 8,  2021
